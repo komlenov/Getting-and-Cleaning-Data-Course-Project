@@ -1,5 +1,3 @@
-## Description
-
 The data been taken from the experiments carried out with a group of 30 volunteers within an age range of 19-48 years.     
 Each person performed six activities 
 	-WALKING
@@ -30,7 +28,7 @@ For the derived dataset, the following signals were used to estimate variables o
 	-fBodyAccMag
 	-fBodyAccJerkMag
 	-fBodyGyroMag
-  -fBodyGyroJerkMag  
+        -fBodyGyroJerkMag  
 
 The variables that were estimated from these signals are mean() - mean value and std() - standard deviation.
 

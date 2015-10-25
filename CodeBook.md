@@ -28,7 +28,7 @@ For the derived dataset, the following signals were used to estimate variables o
 	-fBodyAccMag
 	-fBodyAccJerkMag
 	-fBodyGyroMag
-        -fBodyGyroJerkMag  
+    -fBodyGyroJerkMag  
 
 The variables that were estimated from these signals are mean() - mean value and std() - standard deviation.
 
